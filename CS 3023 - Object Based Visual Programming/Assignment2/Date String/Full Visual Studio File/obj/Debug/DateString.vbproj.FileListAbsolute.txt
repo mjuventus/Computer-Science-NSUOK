@@ -1,0 +1,22 @@
+C:\Users\juventus\Desktop\Assignment4\DateString\bin\Debug\DateString.exe.config
+C:\Users\juventus\Desktop\Assignment4\DateString\bin\Debug\DateString.exe
+C:\Users\juventus\Desktop\Assignment4\DateString\bin\Debug\DateString.pdb
+C:\Users\juventus\Desktop\Assignment4\DateString\bin\Debug\DateString.xml
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.vbprojAssemblyReference.cache
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.Form1.resources
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.Resources.resources
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.exe
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.xml
+C:\Users\juventus\Desktop\Assignment4\DateString\obj\Debug\DateString.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\bin\Debug\DateString.exe.config
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\bin\Debug\DateString.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\bin\Debug\DateString.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\bin\Debug\DateString.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.vbprojAssemblyReference.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.Form1.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignment2\DateString\obj\Debug\DateString.pdb
