@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+F:\Data\School\Spring 2020\GIT\Spring 2020\CS 3403 - Data Structure\Assignment 3 - Queue Simulation\ConsoleApplication1\ConsoleApplication1\Processor.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Data\School\Spring 2020\GIT\Spring 2020\CS 3403 - Data Structure\Assignment 3 - Queue Simulation\ConsoleApplication1\ConsoleApplication1\Processor.h(117): warning C4715: 'NextAvailableCPU': not all control paths return a value
+  ConsoleApplication1.vcxproj -> F:\Data\School\Spring 2020\GIT\Spring 2020\CS 3403 - Data Structure\Assignment 3 - Queue Simulation\ConsoleApplication1\x64\Debug\MainSimulator.exe
