@@ -1,0 +1,17 @@
+Martin Then
+CS 3403
+
+On the program, I provided 2 txt files for example. List1.txt and List2.txt
+
+The program is designed to read the file in a format below:
+Id_Number FirstName LastName GPA Major
+example:
+152056 John Doe 4.0 Science
+
+How the program runs:
+1. Type in the desired output file name with extensions (ex: "FullList.txt")
+2. Type in the list files to merge and confirm it.
+3. Program will create a file called merged.dat for the merged (but not sorted) list.
+4. From the merged.dat file, program will read the data and turn it into an array of a structure.
+5. Program detects the ID number of each students and sort it in ascending order.
+6. After sorting the data, program will write a new file (from step 1) that contains a merged sorted data.
