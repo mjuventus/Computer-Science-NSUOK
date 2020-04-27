@@ -1,0 +1,1 @@
+exports.url = "mongodb+srv://martin:1998@webapp-fvnye.mongodb.net/test?retryWrites=true&w=majority";

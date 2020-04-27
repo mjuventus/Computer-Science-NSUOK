@@ -1,0 +1,46 @@
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbproj.GenerateResource.Cache
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.exe
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.pdb
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\bin\Debug\File WriteLine Demo.xml
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbprojAssemblyReference.cache
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Form1.resources
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File_WriteLine_Demo.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.vbproj.CoreCompileInputs.cache
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.exe
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.xml
+F:\Data\School\Spring 2020\Visual Basic\unit 3 cs is 3023\tutorials unit 3 cs is 3023\ch09\Tutorial 9-1\File WriteLine Demo\File WriteLine Demo\obj\x86\Debug\File WriteLine Demo.pdb

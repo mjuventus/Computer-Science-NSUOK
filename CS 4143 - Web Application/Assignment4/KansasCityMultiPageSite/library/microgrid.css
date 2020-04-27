@@ -1,0 +1,49 @@
+/* rules appliable to all webpages on this site. */
+
+body {
+    background-color: azure;
+    padding: 10px;
+}
+
+h1,
+h2 {
+    margin: 0px;
+    background-color: lightgreen;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    background-color: palegreen;
+    padding: 0px 20px;
+    text-align: justify;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0px 4px 2px 4px;
+    margin: 2px 4px 2px 4px;
+    background-color: lightgoldenrodyellow;
+    border: outset;
+    border-color: lightgreen;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: -15px;
+}
+
+input {
+    margin: 2px 15px 2px 2px
+}
+
+;

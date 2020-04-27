@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Martin Then">
+<title>About Us | Wallace Management</title>
+<link rel="stylesheet" href="../library/wallacemgmt.css">
+    <script src="../library/LoanCalculator.js"></script>
+    <script src="../library/backgroundMode.js"></script>
+    <script src="../library/HistoryGo.js"></script>
+</head>
+
+<body>
+<h1>Calculator</h1>
+<div align="center"><hr>
+    The results of this loan payment calculator are for comparison purposes only.
+    <br>
+    They will be a close approximation of actual loan repayments if available at the terms entered, from a financial institution. This is being provided for you to plan your next loan application. 
+    <br>
+    To use, enter values for the Loan Amount, Number of Months for Loan, and the Interest Rate (e.g. 7.25), and click the Calculate button.
+    <br>
+    Clicking the Reset button will clear entered values.
+    <br>
+</div>
+    <hr>
+<center>
+<form name="calc" method="POST">
+<table width="40%" border="0">
+<tr><th bgcolor="#aaaaaa" width="50%"><font color="blue">Description</font></th>
+<th bgcolor="#aaaaaa" width="50%"><font color="blue">Data Entry</font></th></tr>
+<tr><td bgcolor="#eeeee">Total Loan</td><td bgcolor="#aaeeaa" align="right"><input
+type="text" name="loan"
+size="10"></td></tr>
+<tr><td bgcolor="#eeeee">Months</td><td bgcolor="#aaeeaa"
+align="right"><input type="text"
+name="months" size="10"></td></tr>
+<tr><td bgcolor="#eeeee">Rate</td><td bgcolor="#aaeeaa" align="right"><input
+type="text" name="rate"
+size="10"></td></tr>
+<tr><td bgcolor="#eeeee">Monthly Payment</td><td bgcolor="#eeaaaa"
+align="right"><em>Calculated</em> <input
+type="text" name="pay" size="10"></td></tr>
+<tr><td  bgcolor="#aaeeaa"align="center">
+    <input type="button" onClick="showpay()"
+value="Calculate"></td><td bgcolor="#eeeeaa" align="center"><input type="reset"
+value="Reset"></td></tr>
+</table>
+</form>
+<font size="2">Enter only numeric values (no commas), using decimal points
+where needed.<br>
+Non-numeric values will cause errors.</font>
+</center>
+
+
+
+
+<hr>
+<div class="paragraphabout">
+    <h4>Check Out Our Associates</h4>
+  <a href="https://www.wallacemgt.com/dixie-finance-locations/" target="_blank">  
+      <img src="../images/StateFinance.png" size="50%"></a>
+        </div>
+<div style="float:left">
+    <button onclick="bgLight()">Light Mode</button>
+    <button onclick="bgDark()">Dark Mode</button>
+        </div>
+    <div style="float:right">
+    <button onclick="goBack()">-</button>
+    <button onclick="goForward()">+</button>
+        </div>
+    <hr>
+</body>
+</html>

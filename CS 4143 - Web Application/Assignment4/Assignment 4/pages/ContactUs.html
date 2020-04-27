@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Martin Then">
+<title>Services | Wallace Management</title>
+<link rel="stylesheet" href="../library/wallacemgmt.css">
+    <script src="../library/backgroundMode.js"></script>
+    <script src="../library/HistoryGo.js"></script>
+    <script src="../library/ContactForm.js"></script>
+</head>
+
+<body>
+<h2>Contact Us</h2>
+<hr>
+
+    
+<form style="text-align: center"><br><br>First Name:<br><br><input type="text" placeholder="Enter your first name" id="frstName" size="50"/>
+    <br><br>Last Name:<br><br><input type="text" placeholder="Enter your last name" id="lastName" size="50"/>
+    <br><br>Email Address:<br><br><input type="email" placeholder="Enter your email" id="emailForm" size="50"/>
+    <br><br><br>Message:<br><br>
+    <textarea placeholder="Enter your message" id="MessageForm" cols="100" rows="10"></textarea>
+    <br><br>
+    
+    <button onclick="sendIt();">Send</button>
+    </form>
+    
+    <div style="float:left">
+    <button onclick="bgLight()">Light Mode</button>
+    <button onclick="bgDark()">Dark Mode</button>
+        </div>
+    <div style="float:right">
+    <button onclick="goBack()">-</button>
+    <button onclick="goForward()">+</button>
+        </div>
+    
+<hr>
+
+</body>
+</html>

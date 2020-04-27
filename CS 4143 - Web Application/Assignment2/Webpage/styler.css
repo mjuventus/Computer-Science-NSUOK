@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+  background-color:#DDA4A4;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+#supheaderleft {
+	text-align: left;
+	margin-left: 5px;
+	margin-right: 10px;
+  float: left;
+}
+
+#supheaderright {
+	text-align: right;
+  margin-left: 10px;
+	
+	margin-right: 5px;
+	text-decoration-line:underline;
+  
+}
+
+#headertop {
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+	background-image: url("https://i.ibb.co/r6JsQWr/Untitled-1.png");
+	background-size: cover;
+	background-position:bottom;
+}
+
+#subheader {
+	font-style: italic;
+	text-align: left; 
+	padding-left: 130px;
+}
+
+#middle {
+	
+	
+}
+
+#midleft {
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 10px;
+	border:thick;
+	border-color: white;
+	background-color:#E06D6D;
+  float: left;
+}
+#midright {
+	text-align: center;
+	margin-left: 240px;
+	
+	margin-right: 300px;
+	background-color:#E06E6E;
+  float: inherit;
+}
+#midrighter {
+	text-align: left;
+	border-color: white;
+	background-color: #DB5858;
+	margin-right: 300px;
+	
+	margin-left: 240px;
+  float: none;
+}
+#midrighterer {
+	text-align: center;
+	border-color: white;
+	background-color: #DB5858;
+	
+  float: none;
+}
+
+a:visited{
+	text-decoration:none;
+	color:inherit;
+}
+a:link {
+	text-decoration:none;
+   color:inherit;
+}
+
+
+
+hr
+{
+	border: none;
+    background-color: none;
+    color: none;
+    height: 1px;
+}
+
+
+.midrighterish {
+	text-align: center;
+	margin-left: 15px;
+	border-color: white;
+	background-color: #DB5858;
+  float: none;
+}
+
+
+.veryRight{
+	float: right;
+	text-align: center;
+	margin-left: 15px;
+	width: 293px;
+	border-color: none;
+	background-color: #E17070;
+}
+
+
+pre {
+    text-align: center;
+    white-space: pre-line;
+	margin: 5px;
+	margin-bottom: 10px;
+  }
+
+ul {
+	align-content: center;
+  list-style-type: none;
+  
+  padding: 0;
+}

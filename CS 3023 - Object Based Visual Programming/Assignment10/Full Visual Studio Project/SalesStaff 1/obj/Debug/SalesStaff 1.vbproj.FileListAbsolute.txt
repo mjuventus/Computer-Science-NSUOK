@@ -1,0 +1,14 @@
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\Company.mdf
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\Company_log.ldf
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\SalesStaff 1.exe.config
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\SalesStaff 1.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\SalesStaff 1.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\bin\Debug\SalesStaff 1.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.vbprojAssemblyReference.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff_1.CompanySalesStaffTables.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff_1.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.vbproj.CoreCompileInputs.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment10\10-1\SalesStaff 1\obj\Debug\SalesStaff 1.pdb

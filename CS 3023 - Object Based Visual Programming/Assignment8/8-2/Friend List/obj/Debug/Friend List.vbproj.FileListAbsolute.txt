@@ -1,0 +1,12 @@
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\bin\Debug\Friend List.exe.config
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\bin\Debug\Friend List.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\bin\Debug\Friend List.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\bin\Debug\Friend List.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.vbprojAssemblyReference.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend_List.Form1.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend_List.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.vbproj.CoreCompileInputs.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment8\8-2\Friend List\obj\Debug\Friend List.pdb

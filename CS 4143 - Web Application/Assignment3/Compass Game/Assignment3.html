@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Assignment 3</title>
+	<meta name="author" content="Martin Then">
+	
+	<style>
+  .table {display: table;}
+  .table > * {display: table-row;}
+  .table > * > * {
+    display: table-cell;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 800;
+    margin: 15px;
+    color: red;
+  }
+  .arrow {color: blue;}
+  .italics {font-style: italic;}
+  .diagonal {transform: rotate(-45deg);}
+.diagonal2 {transform: rotate(45deg);}
+
+  
+        .compassgame
+        {
+            background-image: url("https://cdn.wallpaperhi.com/1920x1200/20131219/clouds%20design%20directions%20blue%20skies%20weathervanes_www.wallpaperhi.com_2.jpg");
+            background-size: cover;
+            background-position: center;
+        }    
+        
+        
+        .compassgamedouble
+        {
+            background-color:rgba(255,255,255,0.6);
+        }
+        
+        
+       canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
+}
+        
+</style>
+
+<script src="external.js">
+  // This function erases the compass's directions and
+  // activates the text boxes and update button.
+
+	
+</script>
+
+	
+	
+</head>
+
+<body>
+    <div class="compassgame">
+        <div class="compassgamedouble">
+	<noscript>
+        
+  <p>
+    This page requires JavaScript. Please use a JavaScript-enabled browser.
+  </p>
+</noscript>
+<h1>Compass Game</h1>
+<p>
+  The direction letters on the "compass" are scrambled.
+  Press the arrows to properly position the direction letters.
+</p>
+
+<form>
+  <div class="table">
+    <div>
+      <input type="button" class="arrow diagonal" value="&harr;"
+        onclick = "swap('top', 'left');">
+      <span id="top">E</span>
+		<input type="button" class="arrow diagonal2" value="&harr;"
+        onclick="swap('top', 'right');">
+      <span></span>
+    </div>
+    <div>
+      <span id="left">S</span>
+      <input type="button" class="arrow" value="&harr;"
+        onclick="swap('left', 'right');">
+      <span id="right">N</span>
+    </div>
+    <div>
+		<input type="button" class="arrow diagonal2" value="&harr;"
+        onclick="swap('left', 'bottom');">
+	  <span id="bottom">W</span>
+      <input type="button" class="arrow diagonal" value="&harr;"
+        onclick="swap('bottom', 'right');">
+    </div>
+  </div> <!-- end table -->
+
+  <br><br>
+<p>
+    To Scramble the order, press <span class="italics">Scramble/Reset</span>,
+  </p>
+  <p>
+  
+	<input type="button" value="Scramble/Reset"
+    onclick="ScrambleCompass(this.form);">
+   
+    <hr/>
+      To restart the game, press <span class="italics">Restart</span>,
+    enter N, S, E, and W or other character in any order in the boxes below, and then
+    press <span class="italics">Update</span>.
+  </p>
+  <input type="button" value="Start Again"
+    onclick="restartCompass(this.form);">
+	<br><br>
+  Top:
+  <input type="text" id="topBox" size="1" maxlength="1" disabled>
+  Left:
+  <input type="text" id="leftBox" size="1" maxlength="1" disabled>
+  Right:
+  <input type="text" id="rightBox" size="1" maxlength="1" disabled>
+  Bottom:
+  <input type="text" id="bottomBox" size="1" maxlength="1" disabled>
+  <br><br>
+  <input type="button" id="update" value="Update" disabled
+    onclick="updateCompass(this.form);">
+
+</form>
+    </div>
+    </div>
+    
+    
+    
+    <br><br>
+    
+    
+    
+    
+   
+</body>
+</html>

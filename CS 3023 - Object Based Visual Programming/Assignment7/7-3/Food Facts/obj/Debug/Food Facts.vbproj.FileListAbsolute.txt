@@ -1,0 +1,12 @@
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food_Facts.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food Facts.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food Facts.vbproj.CoreCompileInputs.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\bin\Debug\Food Facts.exe.config
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\bin\Debug\Food Facts.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\bin\Debug\Food Facts.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\bin\Debug\Food Facts.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food Facts.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food Facts.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\7-3\Food Facts\obj\Debug\Food Facts.pdb

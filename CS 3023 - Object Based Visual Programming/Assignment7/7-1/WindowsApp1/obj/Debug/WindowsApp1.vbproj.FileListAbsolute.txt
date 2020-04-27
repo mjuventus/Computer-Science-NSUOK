@@ -1,0 +1,13 @@
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\bin\Debug\WindowsApp1.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\bin\Debug\WindowsApp1.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.MainForm.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.MessageForm.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.exe
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.xml
+F:\Data\School\Spring 2020\Visual Basic\Assignments\Assignment7\Mainform\WindowsApp1\obj\Debug\WindowsApp1.pdb

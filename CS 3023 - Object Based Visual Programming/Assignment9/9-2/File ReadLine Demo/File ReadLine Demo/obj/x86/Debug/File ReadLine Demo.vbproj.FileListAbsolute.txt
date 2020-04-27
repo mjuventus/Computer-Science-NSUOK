@@ -1,0 +1,41 @@
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Form1.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Resources.resources
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.pdb
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+C:\Users\Chris\Desktop\VB 2010 Supplements\Due May 3rd\Completed Tutorials\Chapter 09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.exe
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.pdb
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.xml
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Form1.resources
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Resources.resources
+D:\sovb12\Chapt_09\tutorials\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.exe
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.pdb
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.xml
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Form1.resources
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Resources.resources
+D:\sovb12\instructor\finished_tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.vbproj.GenerateResource.Cache
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb15\instructor\finished tutorials\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.pdb
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\bin\Debug\File ReadLine Demo.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Form1.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File_ReadLine_Demo.Resources.resources
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.vbproj.GenerateResource.Cache
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.exe
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.xml
+D:\sovb 8e\instructor\finished tutorials VS 2017\ch09\Tutorial 9-2\File ReadLine Demo\File ReadLine Demo\obj\x86\Debug\File ReadLine Demo.pdb
