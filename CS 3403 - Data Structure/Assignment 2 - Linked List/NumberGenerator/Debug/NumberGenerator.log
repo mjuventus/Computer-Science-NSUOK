@@ -1,0 +1,4 @@
+﻿  NumberGenerator.cpp
+F:\Data\School\Spring 2020\Data Structures\Assignment2\Array\Testing\NumberGenerator\NumberGenerator.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\Data\School\Spring 2020\Data Structures\Assignment2\Array\Testing\NumberGenerator\NumberGenerator.cpp(122,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGenerator.vcxproj -> F:\Data\School\Spring 2020\Data Structures\Assignment2\Array\Testing\NumberGenerator\Debug\NumberGenerator.exe
